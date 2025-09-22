@@ -57,4 +57,5 @@ Setiap metode array memiliki fungsi dan kegunaan yang berbeda:
 - **find()** untuk mencari satu elemen pertama yang cocok dengan kondisi.
 - **some()** untuk mengecek apakah minimal satu elemen memenuhi kondisi.
 - **every()** untuk memastikan semua elemen memenuhi kondisi.
+
   Dengan memahami dan mengimplementasikan metode-metode ini, manipulasi data array menjadi lebih efisien dan sesuai kebutuhan.
